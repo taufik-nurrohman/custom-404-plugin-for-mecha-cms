@@ -1,0 +1,12 @@
+Title: Custom 404 Page
+Author: Taufik Nurrohman
+URL: http://latitudu.com
+Version: 1.0.0
+
+====
+
+> Replacement for the default 404 page appearance.
+
+Replace the default 404 page layout completely with this plugin.
+
+<!-- block:donate -->

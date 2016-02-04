@@ -1,0 +1,12 @@
+Title: Halaman 404 Kustom
+Author: Taufik Nurrohman
+URL: http://latitudu.com
+Version: 1.0.0
+
+====
+
+> Pengganti tampilan bawaan pada halaman 404.
+
+Ganti tampilan halaman 404 secara keseluruhan dengan plugin ini.
+
+<!-- block:donate -->

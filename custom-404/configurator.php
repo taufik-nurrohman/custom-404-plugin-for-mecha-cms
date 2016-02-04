@@ -1,0 +1,2 @@
+<p><?php echo Form::textarea('content', File::open(__DIR__ . DS . 'workers' . DS . '404.php')->read(), null, array('class' => array('textarea-block', 'textarea-expand', 'code'))); ?></p>
+<p><?php echo Jot::button('action', $speak->update); ?></p>
